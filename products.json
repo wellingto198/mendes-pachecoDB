@@ -149,6 +149,29 @@
 "https://i.ibb.co/C3YSCvjh/Screenshot-20250401-142639-Whats-App.jpg",
 "https://i.ibb.co/yKf3F1Q/Screenshot-20250401-142634-Whats-App.jpg"
         ]
+      },
+      {
+        "id": "BD7",
+        "name": "BabyDoll Luxo",
+        "description": "Tamanhos P, M e G, Liganete",
+        "price": 14.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+       "https://i.ibb.co/5XYPSz1h/Screenshot-20250401-142930-Whats-App.jpg",
+"https://i.ibb.co/PzMrvBkN/Screenshot-20250401-142935-Whats-App.jpg",
+"https://i.ibb.co/VcggCGfm/Screenshot-20250401-142940-Whats-App.jpg",
+"https://i.ibb.co/Y4zsrHbQ/Screenshot-20250401-142945-Whats-App.jpg",
+"https://i.ibb.co/mg7ffZR/Screenshot-20250401-142950-Whats-App.jpg",
+"https://i.ibb.co/YBs2gvmd/Screenshot-20250401-142959-Whats-App.jpg",
+"https://i.ibb.co/fmNdbxK/Screenshot-20250401-142954-Whats-App.jpg",
+"https://i.ibb.co/MyztwRmD/Screenshot-20250401-143004-Whats-App.jpg",
+"https://i.ibb.co/spBfbFNs/Screenshot-20250401-143009-Whats-App.jpg"
+        ]
       }
     ]
   }
