@@ -106,6 +106,25 @@
 "https://i.ibb.co/fdT059jb/Screenshot-20250401-141830-Whats-App.jpg",
 "https://i.ibb.co/39kH1KQN/Screenshot-20250401-141825-Whats-App.jpg"
         ]
+      },
+      {
+        "id": "BD6",
+        "name": "BabyDoll Aberto",
+        "description": "Tamanhos P, M e G, Helanca",
+        "price": 13.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+         "https://i.ibb.co/BHBbXzBS/Screenshot-20250401-142221-Whats-App.jpg",
+"https://i.ibb.co/2Y7P358Q/Screenshot-20250401-142233-Whats-App.jpg",
+"https://i.ibb.co/Ps479qHj/Screenshot-20250401-142228-Whats-App.jpg",
+"https://i.ibb.co/0pHLy0ZW/Screenshot-20250401-142244-Whats-App.jpg",
+"https://i.ibb.co/4wdDfrk9/Screenshot-20250401-142238-Whats-App.jpg"
+        ]
       }
     ]
   }
