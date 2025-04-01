@@ -189,6 +189,23 @@
 "https://i.ibb.co/TMMg5bdZ/Screenshot-20250401-145749-Whats-App.jpg",
 "https://i.ibb.co/kVQmqskq/Screenshot-20250401-145755-Whats-App.jpg"
         ]
+      },
+      {
+        "id": "BD10",
+        "name": "BabyDoll Suede Plus",
+        "description": "Tamanhos 48,50,52 e 54, Suede",
+        "price": 15.00,
+        "sizes": [
+          { "size": "48", "available": true },
+          { "size": "50", "available": true },
+          { "size": "52", "available": true },
+          { "size": "54", "available": true }
+        ],
+        "images": [
+      "https://i.ibb.co/4RFgc41R/Screenshot-20250401-150036-Whats-App.jpg",
+"https://i.ibb.co/27xP0JH3/Screenshot-20250401-150056-Whats-App.jpg",
+"https://i.ibb.co/hRtvZq8q/Screenshot-20250401-150100-Whats-App.jpg"
+        ]
       }
     ]
   }
