@@ -43,14 +43,15 @@
         "description": "Tamanhos P, M e G, Suede",
         "price": 14.00,
         "sizes": [
-          {"size": "P", "available": true},
+          {"size": "P", "available": false},
           {"size": "M", "available": true},
-          {"size": "G", "available": true},
-          {"size": "GG", "available": true}
+          {"size": "G", "available": false},
+          {"size": "GG", "available": false}
         ],
         "images": [
           "https://i.ibb.co/xHB9RYs/Screenshot-20240910-153759-Whats-App.jpg",
-          "https://i.ibb.co/MZ2wYmj/Screenshot-20240910-153605-Whats-App.jpg"
+          "https://i.ibb.co/MZ2wYmj/Screenshot-20240910-153605-Whats-App.jpg",
+          "https://i.ibb.co/23Y3FcxS/Screenshot-20250401-140441-Whats-App.jpg"
         ]
       }
     ]
