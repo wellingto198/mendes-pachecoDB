@@ -19,7 +19,9 @@
         "name": "BabyDoll Canelado",
         "description": "Tamanhos P, M e G, Canelado Suede",
         "price": 15.00,
-        "sizes": ["P", "M", "G", "GG"],
+        "sizes": [{"size": "P", "available": true},
+    {"size": "M", "available": false},
+    {"size": "G", "available": false}, {"size": "GG", "available": false}],
         "images": [
           "https://i.ibb.co/Y4Z2cGGJ/Screenshot-20250401-100657-Whats-App.jpg",
           "https://i.ibb.co/Kp10Dq6m/Screenshot-20250401-100653-Whats-App.jpg",
