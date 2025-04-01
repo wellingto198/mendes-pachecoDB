@@ -172,6 +172,23 @@
 "https://i.ibb.co/MyztwRmD/Screenshot-20250401-143004-Whats-App.jpg",
 "https://i.ibb.co/spBfbFNs/Screenshot-20250401-143009-Whats-App.jpg"
         ]
+      },
+      {
+        "id": "BD9",
+        "name": "BabyDoll Suede",
+        "description": "Tamanhos P, M e G, Suede",
+        "price": 13.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+       "https://i.ibb.co/JW59wPCF/Screenshot-20250401-145743-Whats-App.jpg",
+"https://i.ibb.co/TMMg5bdZ/Screenshot-20250401-145749-Whats-App.jpg",
+"https://i.ibb.co/kVQmqskq/Screenshot-20250401-145755-Whats-App.jpg"
+        ]
       }
     ]
   }
