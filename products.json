@@ -154,7 +154,7 @@
         "id": "BD7",
         "name": "BabyDoll Luxo",
         "description": "Tamanhos P, M e G, Liganete",
-        "price": 14.00,
+        "price": 11.00,
         "sizes": [
           { "size": "P", "available": true },
           { "size": "M", "available": true },
