@@ -89,6 +89,23 @@
           "https://i.ibb.co/W4H93fPF/Screenshot-20250401-141219-Whats-App.jpg",
           "https://i.ibb.co/60zfwX1D/Screenshot-20250401-141225-Whats-App.jpg"
         ]
+      },
+      {
+        "id": "BD5",
+        "name": "BabyDoll Blogueirinha",
+        "description": "Tamanhos P, M e G, Suede",
+        "price": 13.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+         "https://i.ibb.co/Swj1P8gw/Screenshot-20250401-141819-Whats-App.jpg",
+"https://i.ibb.co/fdT059jb/Screenshot-20250401-141830-Whats-App.jpg",
+"https://i.ibb.co/39kH1KQN/Screenshot-20250401-141825-Whats-App.jpg"
+        ]
       }
     ]
   }
