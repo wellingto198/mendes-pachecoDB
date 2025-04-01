@@ -7,10 +7,10 @@
         "description": "Suede, alças com regulagem",
         "price": 13.00,
         "sizes": [
-          {"size": "P", "available": true},
-          {"size": "M", "available": true},
-          {"size": "G", "available": true},
-          {"size": "GG", "available": true}
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
         ],
         "images": [
           "https://i.ibb.co/rysNCnx/Screenshot-20240918-102954-Whats-App.jpg",
@@ -25,10 +25,10 @@
         "description": "Tamanhos P, M e G, Canelado Suede",
         "price": 15.00,
         "sizes": [
-          {"size": "P", "available": true},
-          {"size": "M", "available": true},
-          {"size": "G", "available": true},
-          {"size": "GG", "available": true}
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
         ],
         "images": [
           "https://i.ibb.co/Y4Z2cGGJ/Screenshot-20250401-100657-Whats-App.jpg",
@@ -43,10 +43,10 @@
         "description": "Tamanhos P, M e G, Suede",
         "price": 14.00,
         "sizes": [
-          {"size": "P", "available": true},
-          {"size": "M", "available": true},
-          {"size": "G", "available": true},
-          {"size": "GG", "available": true}
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
         ],
         "images": [
           "https://i.ibb.co/xHB9RYs/Screenshot-20240910-153759-Whats-App.jpg",
@@ -55,39 +55,41 @@
         ]
       },
       {
-        "id": "BD3",
+        "id": "BD3A",
         "name": "BabyDoll Cropped",
-        "description": "Tamanhos P, M e G, Microfibra"
+        "description": "Tamanhos P, M e G, Microfibra",
         "price": 10.00,
         "sizes": [
-          {"size": "P", "available": true},
-          {"size": "M", "available": true},
-          {"size": "G", "available": true},
-          {"size": "GG", "available": true}
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
         ],
         "images": [
           "https://i.ibb.co/fV47jZJL/Screenshot-20250401-140641-Whats-App.jpg",
-"https://i.ibb.co/b49Tdbw/Screenshot-20250401-140633-Whats-App.jpg"
-        ]},
+          "https://i.ibb.co/b49Tdbw/Screenshot-20250401-140633-Whats-App.jpg"
+        ]
+      },
       {
-        "id": "BD4",
+        "id": "BD3B",
         "name": "BabyDoll Cropped",
-        "description": "Tamanhos P, M e G, Liganete"
+        "description": "Tamanhos P, M e G, Liganete",
         "price": 10.00,
         "sizes": [
-          {"size": "P", "available": true},
-          {"size": "M", "available": true},
-          {"size": "G", "available": true},
-          {"size": "GG", "available": true}
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
         ],
         "images": [
-         "https://i.ibb.co/CKnvQTX9/Screenshot-20250401-141153-Whats-App.jpg",
-"https://i.ibb.co/ZzhSKnPR/Screenshot-20250401-141201-Whats-App.jpg",
-"https://i.ibb.co/PZ1pXywK/Screenshot-20250401-141207-Whats-App.jpg",
-"https://i.ibb.co/JFS2nxnc/Screenshot-20250401-141213-Whats-App.jpg",
-"https://i.ibb.co/W4H93fPF/Screenshot-20250401-141219-Whats-App.jpg",
-"https://i.ibb.co/60zfwX1D/Screenshot-20250401-141225-Whats-App.jpg"
-        ]}
+          "https://i.ibb.co/CKnvQTX9/Screenshot-20250401-141153-Whats-App.jpg",
+          "https://i.ibb.co/ZzhSKnPR/Screenshot-20250401-141201-Whats-App.jpg",
+          "https://i.ibb.co/PZ1pXywK/Screenshot-20250401-141207-Whats-App.jpg",
+          "https://i.ibb.co/JFS2nxnc/Screenshot-20250401-141213-Whats-App.jpg",
+          "https://i.ibb.co/W4H93fPF/Screenshot-20250401-141219-Whats-App.jpg",
+          "https://i.ibb.co/60zfwX1D/Screenshot-20250401-141225-Whats-App.jpg"
+        ]
+      }
     ]
   }
 }
