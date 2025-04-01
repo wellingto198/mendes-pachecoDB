@@ -26,9 +26,9 @@
         "price": 15.00,
         "sizes": [
           {"size": "P", "available": true},
-          {"size": "M", "available": false},
-          {"size": "G", "available": false},
-          {"size": "GG", "available": false}
+          {"size": "M", "available": true},
+          {"size": "G", "available": true},
+          {"size": "GG", "available": true}
         ],
         "images": [
           "https://i.ibb.co/Y4Z2cGGJ/Screenshot-20250401-100657-Whats-App.jpg",
@@ -43,17 +43,33 @@
         "description": "Tamanhos P, M e G, Suede",
         "price": 14.00,
         "sizes": [
-          {"size": "P", "available": false},
+          {"size": "P", "available": true},
           {"size": "M", "available": true},
-          {"size": "G", "available": false},
-          {"size": "GG", "available": false}
+          {"size": "G", "available": true},
+          {"size": "GG", "available": true}
         ],
         "images": [
           "https://i.ibb.co/xHB9RYs/Screenshot-20240910-153759-Whats-App.jpg",
           "https://i.ibb.co/MZ2wYmj/Screenshot-20240910-153605-Whats-App.jpg",
           "https://i.ibb.co/23Y3FcxS/Screenshot-20250401-140441-Whats-App.jpg"
         ]
-      }
+      },
+      {
+        "id": "BD2",
+        "name": "BabyDoll Personagem Adulto",
+        "description": "Tamanhos P, M e G, Suede",
+        "price": 14.00,
+        "sizes": [
+          {"size": "P", "available": true},
+          {"size": "M", "available": true},
+          {"size": "G", "available": true},
+          {"size": "GG", "available": true}
+        ],
+        "images": [
+          "https://i.ibb.co/xHB9RYs/Screenshot-20240910-153759-Whats-App.jpg",
+          "https://i.ibb.co/MZ2wYmj/Screenshot-20240910-153605-Whats-App.jpg",
+          "https://i.ibb.co/23Y3FcxS/Screenshot-20250401-140441-Whats-App.jpg"
+        ]}
     ]
   }
 }
