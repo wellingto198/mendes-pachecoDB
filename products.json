@@ -39,7 +39,7 @@
         "id": "C3",
         "name": "Camisola Aberta",
         "description": "Helanca, alças com regulagem",
-        "price": 11.00,
+        "price": 12.00,
         "sizes": [
           { "size": "P", "available": true },
           { "size": "M", "available": true },
@@ -57,6 +57,27 @@
 "https://i.ibb.co/YF5sXX4w/Screenshot-20250401-151120-Whats-App.jpg",
 "https://i.ibb.co/qMy65bpF/Screenshot-20250401-151125-Whats-App.jpg",
 "https://i.ibb.co/hR8K9PzS/Screenshot-20250401-151126-Whats-App.jpg"
+        ]
+      },
+      {
+        "id": "C4",
+        "name": "Camisola D'Love",
+        "description": "Microfibra, alças com regulagem",
+        "price": 14.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+"https://i.ibb.co/HQ8LFmt/Screenshot-20250401-151603-Whats-App.jpg",
+"https://i.ibb.co/gM4SRmyn/Screenshot-20250401-151558-Whats-App.jpg",
+"https://i.ibb.co/xZRnvrx/Screenshot-20250401-151607-Whats-App.jpg",
+"https://i.ibb.co/gZPxHv5z/Screenshot-20250401-151612-Whats-App.jpg",
+"https://i.ibb.co/RqgQzF6/Screenshot-20250401-151617-Whats-App.jpg",
+"https://i.ibb.co/SwvMbZsz/Screenshot-20250401-151622-Whats-App.jpg",
+"https://i.ibb.co/YBMkKTLK/Screenshot-20250401-151627-Whats-App.jpg"
         ]
       }
     ],
