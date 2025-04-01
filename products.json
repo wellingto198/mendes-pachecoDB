@@ -13,9 +13,22 @@
         ]
       }
     ],
-    "babydolls": [
+    "Babydolls": [
       {
         "id": "BD1",
+        "name": "BabyDoll Canelado",
+        "description": "Tamanhos P, M e G, Canelado Suede",
+        "price": 15.00,
+        "sizes": ["P", "M", "G", "GG"],
+        "images": [
+          "https://i.ibb.co/Y4Z2cGGJ/Screenshot-20250401-100657-Whats-App.jpg",
+          "https://i.ibb.co/Kp10Dq6m/Screenshot-20250401-100653-Whats-App.jpg",
+          "https://i.ibb.co/hJpH9csr/Screenshot-20250401-100649-Whats-App.jpg",
+          "https://i.ibb.co/XfWTrR79/Screenshot-20250401-100613-Whats-App.jpg"
+        ],
+        "Babydolls": [
+      {
+        "id": "BD2",
         "name": "BabyDoll Personagem Adulto",
         "description": "Tamanhos P, M e G, Suede",
         "price": 14.00,
