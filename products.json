@@ -55,10 +55,10 @@
         ]
       },
       {
-        "id": "BD2",
-        "name": "BabyDoll Personagem Adulto",
-        "description": "Tamanhos P, M e G, Suede",
-        "price": 14.00,
+        "id": "BD3",
+        "name": "BabyDoll Cropped",
+        "description": "Tamanhos P, M e G",
+        "price": 10.00,
         "sizes": [
           {"size": "P", "available": true},
           {"size": "M", "available": true},
@@ -66,9 +66,8 @@
           {"size": "GG", "available": true}
         ],
         "images": [
-          "https://i.ibb.co/xHB9RYs/Screenshot-20240910-153759-Whats-App.jpg",
-          "https://i.ibb.co/MZ2wYmj/Screenshot-20240910-153605-Whats-App.jpg",
-          "https://i.ibb.co/23Y3FcxS/Screenshot-20250401-140441-Whats-App.jpg"
+          "https://i.ibb.co/fV47jZJL/Screenshot-20250401-140641-Whats-App.jpg",
+"https://i.ibb.co/b49Tdbw/Screenshot-20250401-140633-Whats-App.jpg"
         ]}
     ]
   }
