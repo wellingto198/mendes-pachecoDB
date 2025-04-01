@@ -34,6 +34,30 @@
 "https://i.ibb.co/x8m2LQ8S/Screenshot-20250401-150654-Whats-App.jpg",
 "https://i.ibb.co/js432sC/Screenshot-20250401-150649-Whats-App.jpg"
         ]
+      },
+      {
+        "id": "C3",
+        "name": "Camisola Aberta",
+        "description": "Helanca, alças com regulagem",
+        "price": 11.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+"https://i.ibb.co/W4Yq6Yyx/Screenshot-20250401-151040-Whats-App.jpg",
+"https://i.ibb.co/S7nqNmhr/Screenshot-20250401-151049-Whats-App.jpg",
+"https://i.ibb.co/8DMmPMnZ/Screenshot-20250401-151055-Whats-App.jpg",
+"https://i.ibb.co/YBmtNLkz/Screenshot-20250401-151100-Whats-App.jpg",
+"https://i.ibb.co/ccj1fQf9/Screenshot-20250401-151110-Whats-App.jpg",
+"https://i.ibb.co/XkbV5mC1/Screenshot-20250401-151105-Whats-App.jpg",
+"https://i.ibb.co/R4BtnPgX/Screenshot-20250401-151115-Whats-App.jpg",
+"https://i.ibb.co/YF5sXX4w/Screenshot-20250401-151120-Whats-App.jpg",
+"https://i.ibb.co/qMy65bpF/Screenshot-20250401-151125-Whats-App.jpg",
+"https://i.ibb.co/hR8K9PzS/Screenshot-20250401-151126-Whats-App.jpg"
+        ]
       }
     ],
     "Babydolls": [
