@@ -34,7 +34,9 @@
         "name": "BabyDoll Personagem Adulto",
         "description": "Tamanhos P, M e G, Suede",
         "price": 14.00,
-        "sizes": ["P", "M", "G", "GG"],
+        "sizes": [{"size": "P", "available": true},
+    {"size": "M", "available": true},
+    {"size": "G", "available": true}, {"size": "GG", "available": true}],
         "images": [
           "https://i.ibb.co/xHB9RYs/Screenshot-20240910-153759-Whats-App.jpg",
           "https://i.ibb.co/MZ2wYmj/Screenshot-20240910-153605-Whats-App.jpg"
