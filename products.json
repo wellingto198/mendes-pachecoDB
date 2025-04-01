@@ -79,6 +79,39 @@
 "https://i.ibb.co/SwvMbZsz/Screenshot-20250401-151622-Whats-App.jpg",
 "https://i.ibb.co/YBMkKTLK/Screenshot-20250401-151627-Whats-App.jpg"
         ]
+      },
+      {
+        "id": "C5",
+        "name": "Camisola Suede",
+        "description": "Suede, alças com regulagem",
+        "price": 13.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+"https://i.ibb.co/2YsmzT00/Screenshot-20250401-152047-Whats-App.jpg",
+"https://i.ibb.co/jkXZyXKp/Screenshot-20250401-152052-Whats-App.jpg",
+"https://i.ibb.co/8WrCH1P/Screenshot-20250401-152056-Whats-App.jpg",
+"https://i.ibb.co/S4MRrSCv/Screenshot-20250401-152101-Whats-App.jpg"
+        ]
+      },
+      {
+        "id": "C6",
+        "name": "Camisola Canelado",
+        "description": "Canelado Suede",
+        "price": 13.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+"https://i.ibb.co/FkyctVSY/Screenshot-20250401-152342-Whats-App.jpg"
+        ]
       }
     ],
     "Babydolls": [
