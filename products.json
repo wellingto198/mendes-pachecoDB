@@ -111,7 +111,7 @@
         "id": "BD6",
         "name": "BabyDoll Aberto",
         "description": "Tamanhos P, M e G, Helanca",
-        "price": 13.00,
+        "price": 9.00,
         "sizes": [
           { "size": "P", "available": true },
           { "size": "M", "available": true },
@@ -124,6 +124,30 @@
 "https://i.ibb.co/Ps479qHj/Screenshot-20250401-142228-Whats-App.jpg",
 "https://i.ibb.co/0pHLy0ZW/Screenshot-20250401-142244-Whats-App.jpg",
 "https://i.ibb.co/4wdDfrk9/Screenshot-20250401-142238-Whats-App.jpg"
+        ]
+      },
+      {
+        "id": "BD7",
+        "name": "BabyDoll Patty",
+        "description": "Tamanhos P, M e G, Microfibra",
+        "price": 14.00,
+        "sizes": [
+          { "size": "P", "available": true },
+          { "size": "M", "available": true },
+          { "size": "G", "available": true },
+          { "size": "GG", "available": true }
+        ],
+        "images": [
+        "https://i.ibb.co/pjj3Dv61/Screenshot-20250401-142543-Whats-App.jpg",
+"https://i.ibb.co/cW2V38J/Screenshot-20250401-142548-Whats-App.jpg",
+"https://i.ibb.co/MxdW2vQ3/Screenshot-20250401-142553-Whats-App.jpg",
+"https://i.ibb.co/MkJgtG9G/Screenshot-20250401-142558-Whats-App.jpg",
+"https://i.ibb.co/2QxsMf0/Screenshot-20250401-142620-Whats-App.jpg",
+"https://i.ibb.co/84QS9bMy/Screenshot-20250401-142603-Whats-App.jpg",
+"https://i.ibb.co/8nR52pPn/Screenshot-20250401-142629-Whats-App.jpg",
+"https://i.ibb.co/Zzqmgmh8/Screenshot-20250401-142625-Whats-App.jpg",
+"https://i.ibb.co/C3YSCvjh/Screenshot-20250401-142639-Whats-App.jpg",
+"https://i.ibb.co/yKf3F1Q/Screenshot-20250401-142634-Whats-App.jpg"
         ]
       }
     ]
