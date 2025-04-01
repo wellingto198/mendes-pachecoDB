@@ -6,7 +6,12 @@
         "name": "Camisola Esmeralda",
         "description": "Suede, alças com regulagem",
         "price": 13.00,
-        "sizes": ["P", "M", "G", "GG"],
+        "sizes": [
+          {"size": "P", "available": true},
+          {"size": "M", "available": true},
+          {"size": "G", "available": true},
+          {"size": "GG", "available": true}
+        ],
         "images": [
           "https://i.ibb.co/rysNCnx/Screenshot-20240918-102954-Whats-App.jpg",
           "https://i.ibb.co/QjzTxry/Screenshot-20240918-102950-Whats-App.jpg"
@@ -19,9 +24,12 @@
         "name": "BabyDoll Canelado",
         "description": "Tamanhos P, M e G, Canelado Suede",
         "price": 15.00,
-        "sizes": [{"size": "P", "available": true},
-    {"size": "M", "available": false},
-    {"size": "G", "available": false}, {"size": "GG", "available": false}],
+        "sizes": [
+          {"size": "P", "available": true},
+          {"size": "M", "available": false},
+          {"size": "G", "available": false},
+          {"size": "GG", "available": false}
+        ],
         "images": [
           "https://i.ibb.co/Y4Z2cGGJ/Screenshot-20250401-100657-Whats-App.jpg",
           "https://i.ibb.co/Kp10Dq6m/Screenshot-20250401-100653-Whats-App.jpg",
@@ -34,9 +42,12 @@
         "name": "BabyDoll Personagem Adulto",
         "description": "Tamanhos P, M e G, Suede",
         "price": 14.00,
-        "sizes": [{"size": "P", "available": true},
-    {"size": "M", "available": true},
-    {"size": "G", "available": true}, {"size": "GG", "available": true}],
+        "sizes": [
+          {"size": "P", "available": true},
+          {"size": "M", "available": true},
+          {"size": "G", "available": true},
+          {"size": "GG", "available": true}
+        ],
         "images": [
           "https://i.ibb.co/xHB9RYs/Screenshot-20240910-153759-Whats-App.jpg",
           "https://i.ibb.co/MZ2wYmj/Screenshot-20240910-153605-Whats-App.jpg"
