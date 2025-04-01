@@ -25,8 +25,8 @@
           "https://i.ibb.co/Kp10Dq6m/Screenshot-20250401-100653-Whats-App.jpg",
           "https://i.ibb.co/hJpH9csr/Screenshot-20250401-100649-Whats-App.jpg",
           "https://i.ibb.co/XfWTrR79/Screenshot-20250401-100613-Whats-App.jpg"
-        ],
-        "Babydolls": [
+        ]
+      },
       {
         "id": "BD2",
         "name": "BabyDoll Personagem Adulto",
@@ -40,5 +40,4 @@
       }
     ]
   }
-}
 }
